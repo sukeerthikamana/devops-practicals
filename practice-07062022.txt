@@ -1,0 +1,2 @@
+Git is very interesting source code tool
+Using Visual Studio Code, Git usage is much more easier and faster
