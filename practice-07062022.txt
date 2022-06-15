@@ -2,5 +2,13 @@ Git is very interesting source code tool
 Using Visual Studio Code, Git usage is much more easier and faster
 There are different commands in Git
 Git is comprehensive tool
+<<<<<<< HEAD
 conflicts can occur
 conflicts can be there
+=======
+<<<<<<< HEAD
+conflicts can occur
+=======
+conflicts can be there
+>>>>>>> 25d8734b5ab1ffa21e272f66af497e523596bd8f
+>>>>>>> ac3aa47ef83ef9f48d64ad3824830a9eb23fe82c

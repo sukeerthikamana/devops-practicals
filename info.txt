@@ -1,4 +1,8 @@
 devops course
 javahome cloud
+<<<<<<< HEAD
 devops tools
 unstaging the file
+=======
+devops tools
+>>>>>>> ac3aa47ef83ef9f48d64ad3824830a9eb23fe82c
