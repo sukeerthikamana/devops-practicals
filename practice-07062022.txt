@@ -1,0 +1,6 @@
+Git is very interesting source code tool
+Using Visual Studio Code, Git usage is much more easier and faster
+There are different commands in Git
+Git is comprehensive tool
+conflicts can occur
+conflicts can be there
